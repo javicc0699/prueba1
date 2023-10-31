@@ -1,0 +1,9 @@
+h1 {
+    color: blue;
+    font-weight: bold;
+}
+
+body {
+    background-color: rgb(242, 255, 224);
+    margin:10%;
+}
